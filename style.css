@@ -1,0 +1,43 @@
+.popfont
+{
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.bg-im1
+{
+background-image: url('im/スクリーンショット\ 2025-06-09\ 202814.png'); /* ← 画像パスを変更してください */
+background-size: cover;
+background-position: center;
+color: white; /* テキスト色 */
+padding: 40px;
+font-size: 2rem;
+font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+.tableO{
+    width: 300px; margin: 0 auto; background: #f0f0f0;
+}
+
+
+
+.btn--orange,
+a.btn--orange {
+  color: #fff;
+  background-color: #eb6100;
+}
+.btn--orange:hover,
+a.btn--orange:hover {
+  color: #fff;
+  background: #f56500;
+}
+.butac{
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #eb6100;
+    border-radius: 5px;
+    text-decoration: none;
+
+    text-align: center;
+}

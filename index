@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>あいかめホームページ</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="bg-im1">
+    <h1 class="popfont" style="text-align: center;">あいかめのサイト</h1><br>
+
+  
+</div>
+</header>
+<h3 style="text-align: center;">あいかめのホームページへようこそ&excl;<br>YouTubeで「あいかめゲーム」で活動しています。ぜひチャンネル登録よろしくお願いします。</h3>
+<hr><h3 style="text-align: center;">当サイトではダウンロード物の配布やチャンネルのお知らせを行います。</h3>
+<br><table  border="1" style="text-align: center;" class="tableO">
+    <tr>
+    <th>
+        <h3>おしらせ</h3>
+    </th>
+</tr>
+<td>
+    <h4>2025/0/0</h4>
+    <p>あいかめのホームページを公開しました。</p>
+</table>
+<a  href="dwn" class="btn btn--orange butac">ダウンロード物</a>
+</body>
+</html>

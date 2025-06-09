@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>あいかめホームページ</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="bg-im1">
+    <h1 class="popfont" style="text-align: center;">あいかめのサイト</h1><br>
+    <h3 style="text-align: center;">ダウンロード</h3>
+        </div>
+
+    <table  border="1" style="text-align: center;" class="tableO">
+        <tr>
+        <th>
+            <h3>テクスチャーを作ろう！</h3>
+        </th>
+    </tr>
+    <td>
+        <h4></h4>
+        <p><a href="dwnHTML/texs">こちらから</a></p>
+    </table>
+        <a  href="index" class="btn btn--orange butac">ホーム</a>
